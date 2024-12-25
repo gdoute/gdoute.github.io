@@ -35,7 +35,7 @@ social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: Guillaume Douté
-  email: guillaume.doute@cosmogol.net # change to your email address
+  email: hi@guillaume-doute.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
     #- https://twitter.com/username # change to your Twitter homepage
@@ -43,6 +43,7 @@ social:
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     - https://www.linkedin.com/in/guillaume-dout%C3%A9-031b7b4b/
+    - https://bsky.app/profile/guillaume-doute.com
 
 # Site Verification Settings
 webmaster_verifications:
